@@ -511,7 +511,7 @@
                 <db.script>mysql</db.script>
                 <jpa.database>MYSQL</jpa.database>
                 <jdbc.driverClassName>com.mysql.cj.jdbc.Driver</jdbc.driverClassName>
-                <jdbc.url>jdbc:mysql://localhost:3306/petclinic_eks?useUnicode=true</jdbc.url>
+                <jdbc.url>jdbc:mysql://terraform-20210715175503994700000001.cb3zak9nxoba.us-east-2.rds.amazonaws.com:3306/petclinic_eks?useUnicode=true</jdbc.url>
                 <jdbc.username>petclinic_eksuser</jdbc.username>
                 <jdbc.password>Qweasdzxc123</jdbc.password>
             </properties>
